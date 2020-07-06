@@ -1,0 +1,27 @@
+_repo: Uttara-the-Legend-of-the-Turquoise_62536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fornaro, Carlo de
+    alias: De Fornaro, Carlo
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '49005'
+    url: http://www.gutenberg.org/2009/agents/49005
+description: Illustrated by the author.
+gutenberg_issued: '2020-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62536'
+  lccn: 02018456
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turquoise'
+- !lcc 'GR'
+- !lcsh 'Gems -- Folklore'
+- GITenberg
+title: Uttara, the Legend of the Turquoise
+url: http://www.gutenberg.org/ebooks/62536
